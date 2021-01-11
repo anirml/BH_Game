@@ -1,4 +1,4 @@
 
-##Link to play the game:
+## Link to play the game:
 
-###Link to Backend Code:
+### Link to Backend Code:
